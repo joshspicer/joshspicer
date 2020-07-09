@@ -1,6 +1,6 @@
-### Hellooooo
+### Hellooooo 👋
 
-Thanks for stopping by! ¯\_(ツ)_/¯
+Thanks for stopping by! ¯\\\_(ツ)\_/¯
 
 
 <!--
