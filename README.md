@@ -1,6 +1,6 @@
 ### Hellooooo 👋
 
-Welcome! If I were you, i'd totally go check out my latest posts [over here!](https://joshspicer.com)
+Welcome! If I were you, i'd totally go check out my latest posts [over at joshspicer.com!](https://joshspicer.com)
 
 
 <!--
