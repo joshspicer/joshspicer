@@ -1,6 +1,8 @@
-### Hellooooo 👋
+### Hellooo 👋
 
-Welcome! If I were you, i'd totally go check out my latest posts [over at joshspicer.com!](https://joshspicer.com)
+I'm Josh - a software engineer working on [**GitHub Codespaces**](https://github.com/features/codespaces) 🚀
+
+Check out some of my other recent work (read: hacky projects) over at [**joshspicer.com**](https://joshspicer.com)!
 
 
 <!--
