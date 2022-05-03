@@ -1,6 +1,6 @@
-### Hellooo 👋
+### Hello! 👋
 
-🚀 I'm [**Josh**](https://joshspicer.com/) - a software engineer @Microsoft working on [**GitHub Codespaces**](https://github.com/features/codespaces)!
+I'm [**Josh**](https://joshspicer.com/) - a software engineer `@Microsoft` working on [**GitHub Codespaces**](https://github.com/features/codespaces)!
 
 
 
