@@ -1,8 +1,9 @@
 ### Hello! 👋
 
-I'm [**Josh**](https://joshspicer.com/) - a software engineer at Microsoft working on **VS Code!**
+I'm **Josh** - a software engineer at Microsoft working on **VS Code!**  I've also helped build [**GitHub Codespaces**](https://github.com/features/codespaces) and [**@devcontainers**](https://github.com/devcontainers).
 
-I've also helped build [**GitHub Codespaces**](https://github.com/features/codespaces) and [**@devcontainers**](https://github.com/devcontainers).
+Check out [**https://joshspicer.com**](https://joshspicer.com/) for what i've been building lately!
+
 
 
 
